@@ -1,0 +1,21 @@
+#profile-title: 🌸definVPN🌸
+#profile-icon: 🌸🍢🌸
+#announce: 📢 Тех. поддержка: @Kapibara_qq
+#subscription-userinfo: total=536870912000; expire=1893456000
+#support-url: https://t.me/descvpn_bot
+#profile-web-page-url: https://t.me/descvpn
+#profile-update-interval: 6
+
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 527
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 526
+vless://f17620d7-e79f-4640-92f2-b2278fa9bd4b@185.235.196.126:7788?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 523
+vless://ef9f91a0-54bc-4678-8b48-b2c648c74625@89.110.74.164:8443?security=reality&encryption=none&pbk=E2uPS0gxJLxxJODyLM582BY9ZueZdZepeJ2BaLHhG2Y&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=be77cd9bc9dd69#@Vip_Security join us - 522
+vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 519
+vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 518
+vless://d45a5559-03fe-46d0-911d-03d3647e9502@193.151.152.216:1617?security=&encryption=none&host=mci.ir&headerType=http&type=tcp#@Vip_Security join us - 512
+vless://d45a5559-03fe-46d0-911d-03d3647e9502@193.151.152.216:1615?security=&encryption=none&host=mci.ir&headerType=http&type=tcp#@Vip_Security join us - 511
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1005?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#@Vip_Security join us - 509
+vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#@Vip_Security join us - 486
+vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=&encryption=none&host=hazaranetwork.bh&type=xhttp#@Vip_Security join us - 485]
+vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 451
+vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 450

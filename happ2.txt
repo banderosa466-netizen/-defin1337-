@@ -6,9 +6,8 @@
 #profile-web-page-url: https://t.me/descvpn
 #profile-update-interval: 6
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.169.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4Jadi-4856
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.117.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#4Jadi-4871
-vless://2515e4f0-fee3-4075-a2b3-d1df20089dff@fi.gameirani.com:500?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7telegram%E2%9E%A0%40v2rayNG_Matsuri
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-7397
-vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#V2pedia%20VPN
-vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#4Jadi-7721
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&type=tcp&sni=yahoo.com&sid=69a2#%40WhiteNet_new
+vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?security=reality&encryption=none&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=snapp.ir&sid=6ba85179e30d4fc2#🔵@chillguy_vpn
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cdg-1.fromblancwithlove.com#🔵@chillguy_vpn
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=%2Ftsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#Wiizard_Net
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#🔵@chillguy_vpn

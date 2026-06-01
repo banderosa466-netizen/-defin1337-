@@ -6,4 +6,4 @@
 #profile-web-page-url: https://t.me/descvpn
 #profile-update-interval: 6
 
-trojan://humanity@8.6.112.0:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#[OpenRay] 🇺🇸 US-14912
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[OpenRay] 🇩🇪 DE-5320

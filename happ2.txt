@@ -7,4 +7,3 @@
 #profile-update-interval: 6
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#[OpenRay] 🇨🇦 CA-12045
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.35.216:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#[OpenRay] 🇨🇦 CA-13937

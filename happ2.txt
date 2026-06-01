@@ -6,4 +6,4 @@
 #profile-web-page-url: https://t.me/descvpn
 #profile-update-interval: 6
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#[OpenRay] 🇨🇦 CA-12045
+trojan://humanity@8.6.112.0:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#[OpenRay] 🇺🇸 US-14912
